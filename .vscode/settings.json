@@ -1,0 +1,18 @@
+{
+  "sqltools.connections": [
+    {
+      "pgOptions": {
+        "ssl": {
+          "rejectUnauthorized": true
+        }
+      },
+      "previewLimit": 50,
+      "server": "ep-long-meadow-a130vtgr-pooler.ap-southeast-1.aws.neon.tech",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "debts",
+      "username": "owners",
+      "database": "application"
+    }
+  ]
+}
