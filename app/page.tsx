@@ -1,4 +1,7 @@
-import Image from "next/image";
+import AddGrade from "@/components/AddGrade";
+import Error from "@/components/Error";
+import GWA from "@/components/GWA";
+import GradesList from "@/components/GradesList";
 
 export default function Home() {
   return (
